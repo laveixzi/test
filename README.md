@@ -1,22 +1,22 @@
 <div align="center">
-  <a href="https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend">
+  <a href="https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite">
     <img src="https://tegro.money/assets/tpay/images/logotypes/logo-lebe.png" alt="Tegro DEX Logo" width="120" height="120">
   </a>
 
-  <h2 align="center">Frontend for Decentralized Exchange (DEX) on TON by uNerd for Tegro</h2>
+  <h2 align="center">A lightweight version of Frontend for Decentralized Exchange (DEX) on TON by uNerd for Tegro</h2>
 
   <p align="center">
     A comprehensive frontend solution for a pioneering Decentralized Exchange (DEX) on the TON blockchain, meticulously crafted by uNerd for Tegro.
     <br/>
     <br/>
-    <a href="https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend"><strong>Explore the Documentation »</strong></a>
+    <a href="https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite"><strong>Explore the Documentation »</strong></a>
     <br/>
     <br/>
-    <a href="https://tegro.finance">View Live Demo</a>
+    <a href="http://tegro.ton">View Live Demo</a>
     ·
-    <a href="https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend/issues">Report a Bug</a>
+    <a href="https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite/issues">Report a Bug</a>
     ·
-    <a href="https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend/issues">Request a Feature</a>
+    <a href="https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite/issues">Request a Feature</a>
   </p>
 </div>
 
@@ -42,16 +42,16 @@ Welcome to the official frontend platform for Tegro's Decentralized Exchange (DE
 
 ## Technical Roadmap
 
-The journey ahead is exciting, and we invite you to follow our progress. Our roadmap is a dynamic blueprint of upcoming features and enhancements. Visit our [issue tracker](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend/issues) to stay updated with the latest developments and contribute your ideas.
+The journey ahead is exciting, and we invite you to follow our progress. Our roadmap is a dynamic blueprint of upcoming features and enhancements. Visit our [issue tracker](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite/issues) to stay updated with the latest developments and contribute your ideas.
 
 ## Community Contribution
 
 Your contributions can shape the future of decentralized finance on the TON blockchain. We believe in the power of community collaboration to drive innovation.
 
-- **Open to Ideas**: Share your creative suggestions by [opening an issue](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend/issues/new/choose). Let's brainstorm together to enhance the DEX experience.
+- **Open to Ideas**: Share your creative suggestions by [opening an issue](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite/issues/new/choose). Let's brainstorm together to enhance the DEX experience.
 - **Attention to Detail**: Your feedback on spelling, grammar, and overall content quality is invaluable. Help us maintain the highest standard of clarity and precision.
 - **Individual Contributions Matter**: For every suggestion, please create a separate pull request. This helps us manage changes effectively.
-- **Adherence to Guidelines**: Please review our [Code of Conduct](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend/blob/main/CODE_OF_CONDUCT.md) to ensure a respectful and constructive community environment.
+- **Adherence to Guidelines**: Please review our [Code of Conduct](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite/blob/main/CODE_OF_CONDUCT.md) to ensure a respectful and constructive community environment.
 
 ### How to Create a Pull Request
 
@@ -63,7 +63,7 @@ Your contributions can shape the future of decentralized finance on the TON bloc
 
 ## Legal Information
 
-The project is distributed under the MIT License. This license provides freedom for personal and commercial use, modification, and distribution of the software. For more details, see the [LICENSE](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend/blob/main/LICENSE.md) file.
+The project is distributed under the MIT License. This license provides freedom for personal and commercial use, modification, and distribution of the software. For more details, see the [LICENSE](https://github.com/TegroTON/TON-DEX-TegroFinance-Web-Frontend-Lite/blob/main/LICENSE.md) file.
 
 ## Development Team
 
